@@ -1,10 +1,4 @@
 <p align="center">
-  <a href="https://github.com/magnanimous24">
-    <img src="https://i.postimg.cc/sxj2gMMv/2024-06-04-151317.png" width="700" height="200"/>
-  </a>
-</p>
-
-<p align="center">
     <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Analyst%20;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=700&height=40&color=f75c7e&vCenter=true&pause=100&size=40" /></a>
 </p>
 
