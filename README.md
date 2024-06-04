@@ -19,7 +19,7 @@
   <a href="https://"><img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <a href="https://stepik.org/users/479910444/profile"><img src="https://img.shields.io/badge/Stepik-purple?style=for-the-badge&logo=youtube&logoColor=white" alt="Stepik Badge"/>
   <a href="https://t.me/magnanimous24"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Typing SVG" />
-  <a href="https://"><img src="https://img.shields.io/badge/Tableau-darkblue?style=for-the-badge&logo=youtube&logoColor=white" alt="Tableau Badge"/>
+  <a href="https://public.tableau.com/app/profile/ira.chetyrina/vizzes"><img src="https://img.shields.io/badge/Tableau-darkblue?style=for-the-badge&logo=youtube&logoColor=white" alt="Tableau Badge"/>
 </div>
 
 <p align="center"> <img src="https://galkam.ru/assets/img/11.png" width="10" height="10"/> Languages and Tools: </p>
