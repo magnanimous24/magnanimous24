@@ -11,7 +11,7 @@
 </div>
 </div><div id="badges", align="center">
   <a href="https://"><img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <a href="https://stepik.org/users/479910444/profile"><img src="https://img.shields.io/badge/Stepik-purple?style=for-the-badge&logo=youtube&logoColor=white" alt="Stepik Badge"/>
+  <a href="https://"><img src="https://img.shields.io/badge/Stepik-purple?style=for-the-badge&logo=youtube&logoColor=white" alt="Stepik Badge"/>
   <a href="https://t.me/magnanimous24"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Typing SVG" />
   <a href="https://public.tableau.com/app/profile/ira.chetyrina/vizzes"><img src="https://img.shields.io/badge/Tableau-darkblue?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
 </div>
